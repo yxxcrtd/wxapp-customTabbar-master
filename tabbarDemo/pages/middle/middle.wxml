@@ -1,0 +1,7 @@
+
+
+<view class="container">
+  <text>网上申报</text>
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>
+
